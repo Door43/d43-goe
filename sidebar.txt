@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[goe:home|Door43 (goe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-goe|d43-goe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-goe/archive/master.zip|d43-goe.zip]]
+
+**Recent Changes**
+{{changes>ns = goe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/goe|Ethnologue data]]
+
